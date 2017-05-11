@@ -16,6 +16,6 @@ mvn archetype:generate \
 -DarchetypeArtifactId=easyssh-archetype \
 -DarchetypeVersion=1.0-SNAPSHOT \
 -DgroupId=com.github.caryyu \
--DartifactId=easyssh-archetype
+-DartifactId=easyssh
 -Dversion=1.0-SNAPSHOT
 ```
