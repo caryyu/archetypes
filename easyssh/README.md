@@ -25,3 +25,8 @@ mvn archetype:generate \
 ```
 mvn archetype:create-from-project
 ```
+
+# 参考资料
+```
+http://maven.apache.org/archetype/maven-archetype-plugin/create-from-project-mojo.html
+```
