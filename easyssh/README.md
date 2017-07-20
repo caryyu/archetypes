@@ -19,3 +19,9 @@ mvn archetype:generate \
 -DartifactId=easyssh
 -Dversion=1.0-SNAPSHOT
 ```
+
+# 修改脚手架
+根据此archetype按相同groupId与artifactId生成项目后，然后修改项目内容重新用以下命令修改此份脚手架信息。
+```
+mvn archetype:create-from-project
+```
